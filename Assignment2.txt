@@ -1,0 +1,7 @@
+print("this program converts kilometers to miles")
+
+kilometers=eval(input("Enter the distance in kilometers"))
+
+conversion=kilometers*0.62
+
+print("the converted distance: ", conversion)
